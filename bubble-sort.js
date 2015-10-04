@@ -1,7 +1,4 @@
 /**
- * @param {mixed} needle
- * @param {object} haystack 
- * @return {object|boolean}
  * The dreaded bubblesort...
  */
 
